@@ -1,2 +1,2 @@
-# PY-
-python初学者的记录帖
+# Learn Python
+Python learn note
